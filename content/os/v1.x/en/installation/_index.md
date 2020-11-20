@@ -22,6 +22,7 @@ Refer to the below resources for more information on installing Rancher on your 
 - [Amazon EC2]({{< baseurl >}}/os/v1.x/en/installation/cloud/aws)
 - [Google Compute Engine]({{< baseurl >}}/os/v1.x/en/installation/cloud/gce)
 - [DigitalOcean]({{< baseurl >}}/os/v1.x/en/installation/cloud/do)
+- [Exoscale]({{< baseurl >}}/os/v1.x/en/installation/cloud/exoscale)
 - [Azure]({{< baseurl >}}/os/v1.x/en/installation/cloud/azure)
 - [OpenStack]({{< baseurl >}}/os/v1.x/en/installation/cloud/openstack)
 - [VMware ESXi]({{< baseurl >}}/os/v1.x/en/installation/cloud/vmware-esxi)
